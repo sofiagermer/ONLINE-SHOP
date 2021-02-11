@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['get_5fvector_5fproducts_32',['get_vector_products',['../class_real_shop.html#a322088d37fa6ee24fbca41328129bae9',1,'RealShop']]],
+  ['getcardnumber_33',['GetCardNumber',['../class_credit_card.html#a791757ed15c3e27fa10a17015421f37e',1,'CreditCard']]],
+  ['getclient_34',['getClient',['../class_shop.html#a3396d90ee225b0fefdf9cda1b575d58e',1,'Shop']]],
+  ['getclientname_35',['getClientName',['../classclient_info.html#a00060ad167bf0355424a37d922882440',1,'clientInfo']]],
+  ['getemail_36',['getEmail',['../classregisted_client.html#ad9f9e5c1beded586bf15bc1748e84710',1,'registedClient']]],
+  ['getexpiration_37',['GetExpiration',['../class_credit_card.html#acdcf789e3f8276e71dcc0332be2a38ab',1,'CreditCard']]],
+  ['getfilename_38',['getFileName',['../class_real_shop.html#ad87e757079efb7a89c8a30e29d69ce84',1,'RealShop']]],
+  ['getfromrealshop_39',['GetFromRealShop',['../class_shop.html#afb6551ac2a2cabd1c59a8efbdfaadece',1,'Shop']]],
+  ['getid_40',['getID',['../classclient_info.html#af345dbbb7c36161679546ac9c1c7e624',1,'clientInfo']]],
+  ['getinputforadd_41',['getInputforAdd',['../class_transaction.html#ae91ce2390c07974f5c337627cfc4846f',1,'Transaction']]],
+  ['getinputforremove_42',['getInputforRemove',['../class_transaction.html#a4fa0535832d5e78fff0c88263dac77f8',1,'Transaction']]],
+  ['getnif_43',['getNIF',['../classclient_info.html#aa812ab632a75d46152d6432c14dca866',1,'clientInfo']]],
+  ['getpaymentmethod_44',['getPaymentMethod',['../class_transaction.html#a6a5a0eddf7d677c402ee08173cf0052c',1,'Transaction']]],
+  ['getphonenumber_45',['GetPhoneNumber',['../class_m_bway.html#af84b57156f616ee186e82d95bce87b3e',1,'MBway']]],
+  ['getprice_46',['getPrice',['../class_product.html#a0aaea95b8d3241b3758246254b8575e2',1,'Product']]],
+  ['getprices_47',['getPrices',['../class_supplier.html#a80cc3aea7558f12965d81ea87bfb78a2',1,'Supplier']]],
+  ['getproductname_48',['getproductName',['../class_product.html#a79f28a7051734aeab472d5a1e2322c38',1,'Product']]],
+  ['getprofitmargin_49',['getProfitMargin',['../class_shop.html#afad43325b9b55db1254b569473bfaea0',1,'Shop']]],
+  ['getreference_50',['GetReference',['../class_a_t_m.html#abdd212743e6bba80cdd50466be56b3dd',1,'ATM']]],
+  ['getregisted_51',['getRegisted',['../classclient_info.html#a2421223b07b6bee8f0549af5d796e9b1',1,'clientInfo']]],
+  ['getstock_52',['getStock',['../class_product.html#a499675feec23a28b0968b41030052bf6',1,'Product']]],
+  ['getstockok_53',['getstockOK',['../class_real_shop.html#a22d2f4b8e0b59ef036d441403a77e719',1,'RealShop']]],
+  ['getvalue_54',['GetValue',['../class_payment.html#a2f5b810ab2703598191815c841d74b64',1,'Payment']]],
+  ['getvectorproducts_55',['getvectorProducts',['../class_shop.html#aafee009a617a50403f849a7016e41db2',1,'Shop']]]
+];

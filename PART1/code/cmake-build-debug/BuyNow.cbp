@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BuyNow"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/35191/Desktop/BuyNow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/35191/Desktop/BuyNow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BuyNow">
+				<Option output="C:/Users/35191/Desktop/BuyNow/cmake-build-debug/BuyNow.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/35191/Desktop/BuyNow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 BuyNow"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BuyNow/fast">
+				<Option output="C:/Users/35191/Desktop/BuyNow/cmake-build-debug/BuyNow.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/35191/Desktop/BuyNow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 BuyNow/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/35191/Desktop/BuyNow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/35191/Desktop/BuyNow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/Menu.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/Menu.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/QuickSort.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/client.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/client.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/main.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/payment.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/payment.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/product.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/product.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/realshops.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/realshops.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/shop.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/shop.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/supplier.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/supplier.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/transaction.cpp">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/BuyNow/transaction.h">
+			<Option target="BuyNow"/>
+		</Unit>
+		<Unit filename="C:/Users/35191/Desktop/BuyNow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

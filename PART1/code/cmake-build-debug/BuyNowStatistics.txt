@@ -1,0 +1,30 @@
+Profit: 734.396
+Prod. ; Times Sold
+acucar ; 33
+agua ; 64
+amendoins ; 40
+arroz ; 48
+batatas-frita ; 26
+bolachas ; 34
+cafe ; 56
+carne ; 23
+cerveja ; 27
+cha ; 67
+courgette ; 24
+couve ; 26
+farinha ; 32
+laranja ; 35
+leite ; 32
+mangas ; 143
+maracuja ; 35
+massa ; 146
+melancia ; 86
+nabos ; 87
+nozes ; 88
+ovos ; 117
+pao ; 970
+peixe ; 78
+pipocas ; 92
+presunto ; 47
+sumo ; 215
+vinho ; 43

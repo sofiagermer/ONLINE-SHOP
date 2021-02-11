@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\ASUS\Desktop\BuyNow\BuyNow
+-- Configuring done
+CMake Error: Cannot determine link language for target "untitled1".
+CMake Error: CMake can not determine linker language for target: untitled1
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+Unable to determine product file path for target untitled1. Running and debugging will be unavailable.

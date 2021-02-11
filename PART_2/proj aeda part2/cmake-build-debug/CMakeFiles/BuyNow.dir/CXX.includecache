@@ -1,0 +1,140 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/QuickSort.h
+vector
+-
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/bst.h
+iostream
+-
+stack
+-
+queue
+-
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/client.h
+iostream
+-
+vector
+-
+set
+-
+regex
+-
+string
+-
+algorithm
+-
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/payment.h
+ctime
+-
+map
+-
+set
+-
+fstream
+-
+sstream
+-
+product.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/product.h
+client.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/client.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/product.h
+iostream
+-
+vector
+-
+iomanip
+-
+supplier.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/supplier.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/realshops.h
+iostream
+-
+vector
+-
+product.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/product.h
+fstream
+-
+stdio.h
+-
+QuickSort.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/QuickSort.h
+supplier.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/supplier.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/shop.h
+fstream
+-
+iomanip
+-
+unordered_set
+-
+client.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/client.h
+product.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/product.h
+fstream
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/fstream
+sstream
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/sstream
+ctime
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/ctime
+queue
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/queue
+realshops.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/realshops.h
+QuickSort.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/QuickSort.h
+truck.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/truck.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/supplier.h
+iostream
+-
+vector
+-
+ctime
+-
+fstream
+-
+map
+-
+sstream
+-
+bst.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/bst.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/transaction.cpp
+transaction.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/transaction.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/transaction.h
+ctime
+-
+map
+-
+stack
+-
+shop.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/shop.h
+payment.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/payment.h
+client.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/client.h
+
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/truck.h
+product.h
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/BuyNow/product.h
+

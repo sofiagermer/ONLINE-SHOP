@@ -1,0 +1,16 @@
+afonso,123123123,0
+afonso,462273333,0
+ok,525252525,0
+geogre,123213444,0
+sergio,852123654,0
+sofia,741254854,0
+ss,741222222,0
+hugo,852365451,1,1,hg@gmail.com
+joka,963696365,1,2,jk@gmail.com
+hugo,852025852,1,3,hg@gmail.com
+Rafael,741236547,1,4,Rafa@gmail.com
+kaka,852147961,1,5,kk@gmail.com
+hjhj,744444444,1,6,ghgh@gmail.com
+Joao Andrade,741111111,1,7,jokandra@gmail.com
+Joao,741236987,1,8,Joao@gmaill.com
+Sergio,741256402,1,9,sergio@gmail.com

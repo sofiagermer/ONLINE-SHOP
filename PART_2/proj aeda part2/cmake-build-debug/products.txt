@@ -1,0 +1,12 @@
+alface ; 20 ; 2.32 ; 2
+arroz ; 40 ; 2.99 ; 1
+atum ; 30 ; 1 ; 3
+bananas ; 20 ; 1 ; 2
+carne ; 32 ; 1.3 ; 6
+espinafres ; 20 ; 2 ; 3
+leite ; 20 ; 2.117 ; 3
+mangas ; 31 ; 2 ; 2
+massa ; 39 ; 3 ; 2
+nozes ; 100 ; 2 ; 5
+ovos ; 30 ; 1.5 ; 1
+salmao ; 90 ; 3.11 ; 3

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BuyNow" targetName="BuyNow" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89b9b1d0-7184-4717-bdad-96b770c41bda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BuyNow/product.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/Menu.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/shop.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/realshops.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/payment.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/shop.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/client.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/client.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/realshops.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/product.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/supplier.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/transaction.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BuyNow/supplier.cpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1jJjxjHYogFiYPx29rqJsFe1tk6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\BuyNow\cmake-build-debug" />
+      <recent name="C:\Users\ASUS\Desktop\BuyNow\BuyNow\cmake-build-debug" />
+      <recent name="C:\Users\ASUS\Desktop\BuyNow\BuyNow" />
+      <recent name="C:\Users\ASUS\Desktop\BuyNow\BuyNow\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BuyNow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BuyNow" TARGET_NAME="BuyNow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BuyNow" RUN_TARGET_NAME="BuyNow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b9b1d0-7184-4717-bdad-96b770c41bda" name="Default Changelist" comment="" />
+      <created>1603529336853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603529336853</updated>
+      <workItem from="1603529338524" duration="74000" />
+      <workItem from="1603529428161" duration="16287000" />
+      <workItem from="1603640093620" duration="8433000" />
+      <workItem from="1603648620856" duration="1442000" />
+      <workItem from="1603737687127" duration="1734000" />
+      <workItem from="1603796158064" duration="956000" />
+      <workItem from="1603988324047" duration="6110000" />
+      <workItem from="1604067943497" duration="756000" />
+      <workItem from="1604148460905" duration="4348000" />
+      <workItem from="1604162589218" duration="8574000" />
+      <workItem from="1604241995836" duration="1290000" />
+      <workItem from="1604249501528" duration="937000" />
+      <workItem from="1604257768405" duration="1298000" />
+      <workItem from="1604327426069" duration="13223000" />
+      <workItem from="1604413122696" duration="1091000" />
+      <workItem from="1604592156293" duration="11381000" />
+      <workItem from="1604668993022" duration="16051000" />
+      <workItem from="1604837195768" duration="6470000" />
+      <workItem from="1604843824343" duration="7289000" />
+      <workItem from="1604936126231" duration="692000" />
+      <workItem from="1605115764621" duration="2026000" />
+      <workItem from="1605135227741" duration="5000" />
+      <workItem from="1605181988651" duration="2625000" />
+      <workItem from="1605215238877" duration="478000" />
+      <workItem from="1605220803617" duration="69000" />
+      <workItem from="1605369516018" duration="6662000" />
+      <workItem from="1605385945749" duration="1524000" />
+      <workItem from="1605395615196" duration="2511000" />
+      <workItem from="1605448071660" duration="11511000" />
+      <workItem from="1605541272948" duration="12047000" />
+      <workItem from="1605610760116" duration="8943000" />
+      <workItem from="1605702976962" duration="13700000" />
+      <workItem from="1605748255276" duration="599000" />
+      <workItem from="1605785216358" duration="22996000" />
+      <workItem from="1605817290607" duration="858000" />
+      <workItem from="1605825652565" duration="6903000" />
+      <workItem from="1605832584461" duration="411000" />
+      <workItem from="1605833299654" duration="20434000" />
+      <workItem from="1605854555716" duration="172000" />
+      <workItem from="1605872238582" duration="4794000" />
+      <workItem from="1605878123372" duration="184000" />
+      <workItem from="1605888661033" duration="8265000" />
+      <workItem from="1605914681621" duration="644000" />
+      <workItem from="1605975950449" duration="8230000" />
+      <workItem from="1605985063035" duration="7865000" />
+      <workItem from="1605997131306" duration="1950000" />
+      <workItem from="1605999093461" duration="134000" />
+      <workItem from="1605999238927" duration="4436000" />
+      <workItem from="1606005952481" duration="215000" />
+      <workItem from="1606009335966" duration="1973000" />
+      <workItem from="1606012719295" duration="17000" />
+      <workItem from="1606012744681" duration="169000" />
+      <workItem from="1606012923799" duration="1045000" />
+      <workItem from="1606013998945" duration="68000" />
+      <workItem from="1606014089864" duration="98000" />
+      <workItem from="1606014235862" duration="68000" />
+      <workItem from="1606014345675" duration="1000" />
+      <workItem from="1606059407740" duration="7000" />
+      <workItem from="1606059469627" duration="6567000" />
+      <workItem from="1606066297283" duration="47000" />
+      <workItem from="1606066449855" duration="182000" />
+      <workItem from="1606067295511" duration="1724000" />
+      <workItem from="1606069077472" duration="9200000" />
+      <workItem from="1606078390370" duration="1106000" />
+      <workItem from="1606079887417" duration="2151000" />
+      <workItem from="1606082207662" duration="429000" />
+      <workItem from="1606082649065" duration="1672000" />
+      <workItem from="1606084394566" duration="46000" />
+      <workItem from="1606084675600" duration="210000" />
+      <workItem from="1606085908247" duration="786000" />
+      <workItem from="1606087239579" duration="140000" />
+      <workItem from="1606087933242" duration="106000" />
+      <workItem from="1606088063942" duration="84000" />
+      <workItem from="1606088299175" duration="28000" />
+      <workItem from="1606088393621" duration="75000" />
+      <workItem from="1606088511346" duration="38000" />
+      <workItem from="1609522705668" duration="5546000" />
+      <workItem from="1609528271035" duration="1354000" />
+      <workItem from="1609541533075" duration="7818000" />
+      <workItem from="1609597327422" duration="12306000" />
+      <workItem from="1609718124864" duration="45033000" />
+      <workItem from="1609805517530" duration="12256000" />
+      <workItem from="1609817812706" duration="109000" />
+      <workItem from="1609943098288" duration="6781000" />
+      <workItem from="1609951091842" duration="688000" />
+      <workItem from="1610125896545" duration="2313000" />
+      <workItem from="1610128656001" duration="4720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="539" key="GridCell.Tab.0.bottom" timestamp="1610133453801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="539" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453801" />
+    <state width="1493" height="539" key="GridCell.Tab.0.center" timestamp="1610133453800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="539" key="GridCell.Tab.0.center/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453800" />
+    <state width="1493" height="539" key="GridCell.Tab.0.left" timestamp="1610133453800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="539" key="GridCell.Tab.0.left/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453800" />
+    <state width="1493" height="539" key="GridCell.Tab.0.right" timestamp="1610133453800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="539" key="GridCell.Tab.0.right/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453800" />
+    <state width="1493" height="25" key="GridCell.Tab.1.bottom" timestamp="1610133453794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="25" key="GridCell.Tab.1.bottom/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453794" />
+    <state width="1493" height="25" key="GridCell.Tab.1.center" timestamp="1610133453794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="25" key="GridCell.Tab.1.center/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453794" />
+    <state width="1493" height="25" key="GridCell.Tab.1.left" timestamp="1610133453793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="25" key="GridCell.Tab.1.left/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453793" />
+    <state width="1493" height="25" key="GridCell.Tab.1.right" timestamp="1610133453794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="25" key="GridCell.Tab.1.right/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610133453794" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610127307830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1610127307830" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BuyNow/transaction.cpp</url>
+          <line>192</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BuyNow/transaction.cpp</url>
+          <line>212</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BuyNow/transaction.cpp</url>
+          <line>245</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

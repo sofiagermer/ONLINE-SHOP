@@ -1,0 +1,3 @@
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/cmake-build-debug/CMakeFiles/BuyNow.dir
+C:/Users/35191/Desktop/AEDA2021_Part2_C2_G7/proj aeda part2/cmake-build-debug/CMakeFiles/edit_cache.dir

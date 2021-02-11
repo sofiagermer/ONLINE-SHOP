@@ -1,0 +1,12 @@
+alface ; 20
+arroz ; 40
+atum ; 30
+bananas ; 20
+carne ; 32
+espinafres ; 20
+leite ; 20
+mangas ; 0
+massa ; 39
+nozes ; 100
+ovos ; 30
+salmao ; 90

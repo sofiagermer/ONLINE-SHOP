@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['savesupplier_320',['saveSupplier',['../class_supply.html#ae246890b315ae1a746f32b8ce7ebf957',1,'Supply']]],
+  ['setanswered_321',['setAnswered',['../class_message.html#af75bdf2b2252622b6311ac557ed51a29',1,'Message']]],
+  ['setcurrentsupplier_322',['setCurrentSupplier',['../class_product.html#a205edef3caf2f683ffa72169d5cf89a1',1,'Product']]],
+  ['setmessages_323',['setMessages',['../classregisted_client.html#abbe928a97753a7927eb161c5cf26d59b',1,'registedClient']]],
+  ['setnif_324',['setNIF',['../classsupplier.html#acbbe32c300c37b3bd2ff27d517987529',1,'supplier']]],
+  ['setproductname_325',['setProductname',['../class_product.html#a52a1af4dab664ced3b579574d3a23969',1,'Product']]],
+  ['setprofitmargin_326',['setProfitMargin',['../class_shop.html#ad0bd607d3f99f35718208a3f9d591efe',1,'Shop']]],
+  ['setregisted_327',['setRegisted',['../classclient_info.html#a4ca771a06bb61e414e494794bc715482',1,'clientInfo']]],
+  ['setstock_328',['setStock',['../class_product.html#ab0457b39155658445257486ccb9dba06',1,'Product']]],
+  ['setsuppliers_329',['setSuppliers',['../class_supply.html#abc6377e03beec553020d67ab1f6a5ffd',1,'Supply']]],
+  ['ship_5ftruck_330',['ship_truck',['../class_shop.html#a8e40d69d73fad4b79b5a187cfafb6d4b',1,'Shop']]],
+  ['shop_331',['Shop',['../class_shop.html#a579ed9f949f7db3f90c22dfe10b25797',1,'Shop::Shop()'],['../class_shop.html#aa28eb7c9dfa2539121306c352a95e4a4',1,'Shop::Shop(Supply &amp;s)']]],
+  ['show_5fstatistics_332',['show_statistics',['../class_shop.html#a26887425833b274ba09595d1a3160590',1,'Shop']]],
+  ['showcommands_333',['showCommands',['../class_transaction.html#a581cf1afedcae33b776ae73003132c69',1,'Transaction']]],
+  ['showcurrentsupplier_334',['showCurrentSupplier',['../class_product.html#a21bd4c4cd3433c2adb5937ba29e7c40b',1,'Product']]],
+  ['showproducts_335',['showProducts',['../class_shop.html#a3a318374b24b81cea6f50bc835b88a7e',1,'Shop']]],
+  ['showproductscar_336',['showProductsCar',['../class_transaction.html#a1e1484e73759f7bf36e841d59fa5e16c',1,'Transaction']]],
+  ['showrealshops_337',['showRealShops',['../class_shop.html#a7f91679c388afa395da4d0711e4bd9b7',1,'Shop']]],
+  ['showsuppliers_338',['showSuppliers',['../class_product.html#a4982d6aeed93389a5fe4ad623abd7807',1,'Product']]],
+  ['special_5fbinary_5fsearch_339',['special_Binary_search',['../class_shop.html#a6767894f8d7df57d6b3466d52273abaf',1,'Shop']]],
+  ['startshopping_340',['StartShopping',['../class_menu.html#a5b757a8a80cd0a33843dff8b018eeb8c',1,'Menu']]],
+  ['statistics_341',['statistics',['../class_menu.html#a3a908fd3621563738fb52756f47fee62',1,'Menu']]],
+  ['supplier_342',['supplier',['../classsupplier.html#ade39d3ecf5d3a864a9fb44219c0d582a',1,'supplier::supplier()=default'],['../classsupplier.html#a4ff781ab397fd7367efbabe8751baeb5',1,'supplier::supplier(string name, long long int NIF, string prodname, float price, int quant)']]],
+  ['supply_343',['Supply',['../class_supply.html#a4239fb3e8250b5ba79dc033fe4a3b21d',1,'Supply']]],
+  ['swap_344',['Swap',['../class_quick_sort.html#a4955deaab430d4320557b853da584edd',1,'QuickSort']]]
+];
